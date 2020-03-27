@@ -1,4 +1,4 @@
-package interfaces;
+package Study.SpringBoot.Restaurant.interfaces;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
